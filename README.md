@@ -2,7 +2,7 @@
 A NodeJs / Passport App
 
 ## Things to do
-  - create a cluster and copy/paste the URI in "config/Keys.js"
+  - create a cluster (using atlas for example) and copy/paste the URI in "config/Keys.js"
   - **npm run dev** to start the server
 
 ## DEPENDENCIES
